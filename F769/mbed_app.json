@@ -1,0 +1,10 @@
+{
+    "target_overrides": {
+        "DISCO_F769NI": {
+            "target.network-default-interface-type": "ETHERNET",
+            "lwip.ipv4-enabled": true,
+            "lwip.tcp-enabled": true,
+            "mbed-trace.enable": true
+        }
+    }
+}
