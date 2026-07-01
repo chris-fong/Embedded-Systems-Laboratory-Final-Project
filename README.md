@@ -219,3 +219,7 @@ ninja flash-MbedCEHelloWorld
 > That behavior is *described in the report* but is **not present in the source in this repo** —
 > the committed `BB_Car/main.cpp` implements line following, barcode handling, line seeking,
 > stop, and manual override.
+
+[![Video Title](https://img.youtube.com/vi/4gJ33trj6C8/0.jpg)](https://www.youtube.com/watch?v=4gJ33trj6C8)
+
+
